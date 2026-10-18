@@ -1,1 +1,5 @@
+Problem Statement:
 
+Write a C++ program to delete a node having exactly one child from a Binary Search Tree (BST).
+Display the parent and child links affected by deletion, handle deletion of the root node when it has one child, 
+and display an appropriate message when the requested node is not found.
