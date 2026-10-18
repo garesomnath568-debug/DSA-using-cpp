@@ -1,0 +1,16 @@
+Algorithm:
+
+1. Start the program.
+2. Create a BST by inserting the given values.
+3. Display the original BST using inorder traversal.
+4. Accept the key to delete.
+5. Search for the requested node and identify its parent.
+6. If the node is not found, display Node not found.
+7. If the node does not have exactly one child, display an appropriate message.
+8. If the node has one child:
+   - Display the parent, deleted node, and replacement child.
+   - If the node is the root, make its child the new root.
+   - Otherwise, connect the parent directly to the child.
+9. Delete the selected node.
+10. Display the updated BST.
+11. Stop the program.
