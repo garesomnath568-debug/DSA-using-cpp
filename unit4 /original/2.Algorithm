@@ -1,0 +1,13 @@
+Algorithm:
+
+1. Start the program.
+2. Create a Binary Search Tree using nodes containing integer values.
+3. Insert elements into the BST.
+4. Display the original BST using inorder traversal.
+5. Enter the value of the node to be deleted.
+6. Search for the node in the BST.
+7. Check whether the node has exactly one child.
+8. If it has one child, connect its parent to that child and delete the node.
+9. If the node does not have exactly one child or is not found, display an appropriate message.
+10. Display the updated BST using inorder traversal.
+11. Stop the program.
