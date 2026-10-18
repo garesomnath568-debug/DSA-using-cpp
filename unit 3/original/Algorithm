@@ -1,0 +1,14 @@
+Algorithm:
+
+1. Start the program.
+2. Create a Book structure containing book ID, book name, and a pointer to the next node.
+3. Initialize head = NULL.
+4. Display the menu:
+   - Add Book
+   - Display Books
+   - Search Book
+   - Delete Book
+   - Exit
+5. Perform the operation selected by the user.
+6. Repeat the menu until the user selects Exit.
+7. Stop the program.
