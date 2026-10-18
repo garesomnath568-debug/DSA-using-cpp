@@ -1,4 +1,0 @@
-Problem Statement: 
-
-Write a C++ program to delete a node having exactly one child from a Binary Search Tree (BST). After deleting the node, 
-connect its parent directly to its child and display the updated BST using inorder traversal.
